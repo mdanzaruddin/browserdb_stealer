@@ -1,3 +1,7 @@
+#Research Use
+#Author : Md Anzaruddin
+
+
 import os
 import csv
 import sqlite3
@@ -90,4 +94,4 @@ cursor.close()
 conn.close()
 csv_file.close()
 
-print('Saved passwords dumped to')
+print('Saved Passwords Dumped Succesful ')
